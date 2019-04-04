@@ -1,0 +1,22 @@
+{
+  "name": "redux-addactions",
+  "version": "1.0.0",
+  "description": "add, delete comment, thump up down",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0na/Redux-addActions.git"
+  },
+  "author": "Aleksandra Garlikowska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0na/Redux-addActions/issues"
+  },
+  "homepage": "https://github.com/0na/Redux-addActions#readme",
+  "devDependencies": {
+    "uuid": "^3.3.2"
+  }
+}
