@@ -30,14 +30,14 @@ function removeComment(id) {
         id
     }
 }
-
+//Thumb up
 function thumbUpComment(id) {
     return {
         type: THUMB_UP_COMMENT,
         id
     }
 }
-
+//Thumb down
 function thumbDownComment(id) {
     return {
         type: THUMB_DOWN_COMMENT,
